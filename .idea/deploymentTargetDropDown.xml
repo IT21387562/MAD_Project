@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\sisil\.android\avd\food.avd" />
+            <value value="C:\Users\sisil\.android\avd\food_final.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-05-01T04:52:28.272942900Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-05-12T02:30:01.332299100Z" />
   </component>
 </project>
